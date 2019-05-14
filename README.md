@@ -1,1 +1,4 @@
 # timeout
+
+## License
+[MIT](LICENSE)
